@@ -12,7 +12,7 @@
     "A simple module for applying source maps to JS stack traces in the browser.",
   "dependencies": {
     "es6-promise": "^4.1.1",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "source-map": "^0.6.1"
   },
   "devDependencies": {
